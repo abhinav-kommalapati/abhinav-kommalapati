@@ -109,12 +109,6 @@
 
 ---
 
-<p align="center">
-  <b>👁️ Visitor Count</b><br>
-  <img src="https://count.getloli.com/get/@abhinav-kommalapati?theme=asoul" alt="Profile views"/>
-</p>
-
-
 
 <details>
   <summary><b>🚀 Fun Facts & Interests</b></summary>
