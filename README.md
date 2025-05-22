@@ -106,33 +106,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-kommalapati&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinav-kommalapati&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abhinav-kommalapati&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
 
 ---
 
 <p align="center">
-  👁️
-  <a href="https://visitcount.itsvg.in/api?id=abhinav-kommalapati&icon=5&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=abhinav-kommalapati&icon=5&color=0" alt="Visitor Count" />
-  </a>
+  <b>👁️ Visitor Count</b><br>
+  <img src="https://count.getloli.com/get/@abhinav-kommalapati?theme=asoul" alt="Profile views"/>
 </p>
 
----
+
 
 <details>
   <summary><b>🚀 Fun Facts & Interests</b></summary>
