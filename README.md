@@ -96,16 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-kommalapati&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhinav-kommalapati&theme=highcontrast&hide_border=true" alt="GitHub streak" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-kommalapati&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</p>
-
 
 ---
 
