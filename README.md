@@ -28,20 +28,26 @@
 
 <details>
   
-🔹 Software & AI Engineer Intern – Vitamap Software Solutions
-🗓️ Jun 2025 – Present · Bengaluru, India · On-site
+🔹 Software & AI Engineer Intern
+Vitamap Software Solutions
+🗓️ Jun 2025 – Present
+📍 Bengaluru, India · On-site
 
 Automated CloudTrac web application testing using Selenium WebDriver, reducing manual login and navigation time by 75%.
 
 Achieved 100% test execution success rate.
 
-🔹 E-Board Member – CICSoft
-🗓️ May 2025 – Present · Amherst, MA
+🔹 E-Board Member
+CICSoft
+🗓️ May 2025 – Present
+📍 Amherst, MA
 
 Supporting club operations, student learning initiatives, and organizing technical events for the community.
 
-🔹 Machine Learning Engineer – UMass Amherst Data Science Club
-🗓️ Mar 2025 – May 2025 · Amherst, MA
+🔹 Machine Learning Engineer
+UMass Amherst Data Science Club
+🗓️ Mar 2025 – May 2025
+📍 Amherst, MA
 
 Built a binary image classifier using Keras (TensorFlow backend) on masked and unmasked face datasets.
 
@@ -51,8 +57,10 @@ Preprocessed data with ImageDataGenerator (rescaling, zoom, flip) to prevent ove
 
 Implemented OpenCV live webcam detection with bounding boxes and real-time mask status.
 
-🔹 Software Engineer Intern – Besant Technologies
-🗓️ Jun 2024 – Aug 2024 · Bengaluru, India · On-site
+🔹 Software Engineer Intern
+Besant Technologies
+🗓️ Jun 2024 – Aug 2024
+📍 Bengaluru, India · On-site
 
 Developed a modular Python-based input validation system for 6+ data types, reducing invalid input by ~85%.
 
@@ -62,8 +70,10 @@ Automated checks across 3 internal tools, decreasing manual review time by 40%.
 
 Integrated module into backend systems used by 5+ teams, ensuring standardized data integrity.
 
-🔹 Research Intern – Incognito Blueprints
-🗓️ May 2024 – Jul 2024 · New Jersey, USA · Remote
+🔹 Research Intern
+Incognito Blueprints
+🗓️ May 2024 – Jul 2024
+📍 New Jersey, USA · Remote
 
 Designed backend using Python + SQL for geolocation and data capture across 300+ test users.
 
@@ -75,8 +85,10 @@ Applied secure storage practices, increasing user trust by ~30% (survey-based).
 
 Reviewed and revised 20+ logical/structural issues pre-submission.
 
-🔹 UI/UX Intern – Infinity Cars Pvt Ltd
-🗓️ Aug 2023 – Oct 2023 · Mumbai, India · Hybrid
+🔹 UI/UX Intern
+Infinity Cars Pvt Ltd
+🗓️ Aug 2023 – Oct 2023
+📍 Mumbai, India · Hybrid
 
 Redesigned and prototyped the test-drive booking flow using user research, wireframing, and Figma.
 
