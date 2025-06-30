@@ -27,17 +27,20 @@
 ## 🏗️ Projects & Experience
 
 <details>
-  <details> <summary><b>Click to expand</b></summary>
+  
 🔹 Software & AI Engineer Intern – Vitamap Software Solutions
 🗓️ Jun 2025 – Present · Bengaluru, India · On-site
+
 • Automated CloudTrac web application testing using Selenium WebDriver, reducing manual login and navigation time by 75% with 100% test execution success rate.
 
 🔹 E-Board Member – CICSoft
 🗓️ May 2025 – Present · Amherst, MA
+
 • Supporting club operations, student learning initiatives, and organizing technical events for the community.
 
 🔹 Machine Learning Engineer – UMass Amherst Data Science Club
 🗓️ Mar 2025 – May 2025 · Amherst, MA
+
 • Built a binary image classifier using Keras (TensorFlow backend) on masked and unmasked face datasets.
 • Achieved 97%+ training accuracy using Conv2D, MaxPooling2D, Flatten, Dense layers.
 • Preprocessed data with ImageDataGenerator (rescaling, zoom, flip) to prevent overfitting.
@@ -45,6 +48,7 @@
 
 🔹 Software Engineer Intern – Besant Technologies
 🗓️ Jun 2024 – Aug 2024 · Bengaluru, India · On-site
+
 • Developed a modular Python-based input validation system for 6+ data types, reducing invalid input by ~85%.
 • Implemented regex-based validation and file handling restrictions, blocking 100+ malformed file attempts weekly.
 • Automated checks across 3 internal tools, decreasing manual review time by 40%.
@@ -52,6 +56,7 @@
 
 🔹 Research Intern – Incognito Blueprints
 🗓️ May 2024 – Jul 2024 · New Jersey, USA · Remote
+
 • Designed backend using Python + SQL for geolocation and data capture across 300+ test users.
 • Analyzed survey data from 150+ participants using Pandas and SciPy.
 • Co-authored a ~5,000-word research paper, drafting over 60% of the content (Abstract, Intro, Results, Conclusion).
@@ -60,6 +65,7 @@
 
 🔹 UI/UX Intern – Infinity Cars Pvt Ltd
 🗓️ Aug 2023 – Oct 2023 · Mumbai, India · Hybrid
+
 • Redesigned and prototyped the test-drive booking flow using user research, wireframing, and Figma.
 • Conducted 10+ user interviews & usability tests; improved task success rate to 80%.
 • Created mid and high-fidelity prototypes, reducing booking time by 30% and clicks by 20%.
