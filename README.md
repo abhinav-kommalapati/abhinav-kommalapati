@@ -33,9 +33,10 @@ Vitamap Software Solutions
 🗓️ Jun 2025 – Present
 📍 Bengaluru, India · On-site
 
-Automated CloudTrac web application testing using Selenium WebDriver, reducing manual login and navigation time by 75%.
 
-Achieved 100% test execution success rate.
+
+- Automated CloudTrac web application testing using Selenium WebDriver, reducing manual login and navigation time by 75%.
+- Achieved 100% test execution success rate.
 
 🔹 E-Board Member
 CICSoft
