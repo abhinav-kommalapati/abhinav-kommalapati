@@ -38,6 +38,8 @@
 
 • Supporting club operations, student learning initiatives, and organizing technical events for the community.
 
+
+
 🔹 Machine Learning Engineer – UMass Amherst Data Science Club
 🗓️ Mar 2025 – May 2025 · Amherst, MA
 
@@ -45,6 +47,8 @@
 • Achieved 97%+ training accuracy using Conv2D, MaxPooling2D, Flatten, Dense layers.
 • Preprocessed data with ImageDataGenerator (rescaling, zoom, flip) to prevent overfitting.
 • Implemented OpenCV live webcam detection with bounding boxes and real-time mask status.
+
+
 
 🔹 Software Engineer Intern – Besant Technologies
 🗓️ Jun 2024 – Aug 2024 · Bengaluru, India · On-site
@@ -54,6 +58,8 @@
 • Automated checks across 3 internal tools, decreasing manual review time by 40%.
 • Integrated module into backends used by 5+ teams, ensuring standardized data integrity.
 
+
+
 🔹 Research Intern – Incognito Blueprints
 🗓️ May 2024 – Jul 2024 · New Jersey, USA · Remote
 
@@ -62,6 +68,8 @@
 • Co-authored a ~5,000-word research paper, drafting over 60% of the content (Abstract, Intro, Results, Conclusion).
 • Applied secure storage practices, increasing user trust by ~30% (survey-based).
 • Reviewed and revised 20+ logical/structural issues pre-submission.
+
+
 
 🔹 UI/UX Intern – Infinity Cars Pvt Ltd
 🗓️ Aug 2023 – Oct 2023 · Mumbai, India · Hybrid
