@@ -1,232 +1,265 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/abhinav-kommalapati)
 
-<h1 align="center">Hi 👋, I'm Abhinav Kommalapati</h1>
-<h3 align="center">Aspiring Data Scientist & Machine Learning Enthusiast | UMass Amherst Honors '28</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+data-driven+solutions;Lover+of+automation+%26+UI%2FUX;Always+curious+and+learning+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
-
+<div align="center">
+# Abhinav Kommalapati
+Computer Science Honors Student at UMass Amherst  
+Software Engineering • AI Systems • Cloud Infrastructure • Full-Stack Development
+<br>
+<a href="mailto:akommalapati@umass.edu">
+  <img src="https://img.shields.io/badge/Email-akommalapati%40umass.edu-B23121?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Kommalapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=1000&center=true&vCenter=true&width=800&lines=Building+software+across+AI%2C+cloud%2C+and+backend+systems;Interested+in+production-grade+LLM+applications+and+distributed+systems;Java+%7C+Python+%7C+React+%7C+AWS+%7C+Spring+Boot+%7C+LangChain" alt="Typing animation" />
+</div>
 ---
-
-## 💫 About Me
-
-- 👋 Hi, I’m **Abhinav Kommalapati**
-- 🏫 **Sophomore at UMass Amherst (Honors), Class of 2028**
-- 📈 **GPA:** 4.0/4.0
-- 💻 **Aspiring Data Scientist & Machine Learning Enthusiast**
-- 🌟 **Upcoming intern at VitMaps**
-- 💡 Experienced in software development, automation, and user-centric design
-- 🛠️ Proficient in Java, Python, C, HTML, CSS, FastAPI, NumPy, Pandas, Git, and GitHub
-- 👨‍💻 Built real-time communication systems, data analyzers, and safety-focused wearable tech
-- 📊 Strong background in research, system design, and statistical analysis
-- 🎨 Passionate about UI/UX, data-driven projects, and innovative problem-solving
-
+## About
+I am a Computer Science Honors student at the University of Massachusetts Amherst with experience across software engineering, AI systems, backend development, cloud infrastructure, automation, and research.
+My work focuses on building practical systems: RESTful microservices, AI-powered applications, cloud-hosted platforms, data pipelines, automation tools, and full-stack dashboards. I have worked with Java, Python, React, Spring Boot, AWS, PostgreSQL, LangChain, OpenAI APIs, and modern AI-assisted development tools.
+I am especially interested in backend engineering, AI infrastructure, agentic systems, cloud deployment, and scalable software products.
 ---
-
-## 🏗️ Projects & Experience
-
-<details>
-  
-🔹 Software & AI Engineer Intern
-Vitamap Software Solutions
-🗓️ Jun 2025 – Present
-📍 Bengaluru, India · On-site
-
-
-
-- Automated CloudTrac web application testing using Selenium WebDriver, reducing manual login and navigation time by 75%.
-- Achieved 100% test execution success rate.
-
-
-
-
-
-🔹 E-Board Member
-CICSoft
-🗓️ May 2025 – Present
-📍 Amherst, MA
-
-
-
-- Supporting club operations, student learning initiatives, and organizing technical events for the community.
-
-
-
-
-
-🔹 Machine Learning Engineer
-UMass Amherst Data Science Club
-🗓️ Mar 2025 – May 2025
-📍 Amherst, MA
-
-
-
-- Built a binary image classifier using Keras (TensorFlow backend) on masked and unmasked face datasets.
-
-- Achieved 97%+ training accuracy using Conv2D, MaxPooling2D, Flatten, Dense layers.
-
-- Preprocessed data with ImageDataGenerator (rescaling, zoom, flip) to prevent overfitting.
-
-- Implemented OpenCV live webcam detection with bounding boxes and real-time mask status.
-
-
-
-
-
-🔹 Software Engineer Intern
-Besant Technologies
-🗓️ Jun 2024 – Aug 2024
-📍 Bengaluru, India · On-site
-
-
-
-- Developed a modular Python-based input validation system for 6+ data types, reducing invalid input by ~85%.
-
-- Implemented regex-based validation and file handling restrictions, blocking 100+ malformed file attempts weekly.
-
-- Automated checks across 3 internal tools, decreasing manual review time by 40%.
-
-- Integrated module into backend systems used by 5+ teams, ensuring standardized data integrity.
-
-
-
-
-
-🔹 Research Intern
-Incognito Blueprints
-🗓️ May 2024 – Jul 2024
-📍 New Jersey, USA · Remote
-
-
-
-- Designed backend using Python + SQL for geolocation and data capture across 300+ test users.
-
-- Analyzed survey data from 150+ participants using Pandas and SciPy.
-
-- Co-authored a ~5,000-word research paper, drafting over 60% of the content (Abstract, Intro, Results, Conclusion).
-
-- Applied secure storage practices, increasing user trust by ~30% (survey-based).
-
-- Reviewed and revised 20+ logical/structural issues pre-submission.
-
-
-
-
-
-🔹 UI/UX Intern
-Infinity Cars Pvt Ltd
-🗓️ Aug 2023 – Oct 2023
-📍 Mumbai, India · Hybrid
-
-
-
-- Redesigned and prototyped the test-drive booking flow using user research, wireframing, and Figma.
-
-- Conducted 10+ user interviews & usability tests; improved task success rate to 80%.
-
-- Created mid and high-fidelity prototypes, reducing booking time by 30% and clicks by 20%.
-
-- Delivered final UX case study with clickable prototype and presentation slides, earning a UX Design Certificate.
-
+## Education
+*University of Massachusetts Amherst*  
+B.S. in Computer Science, Honors College  
+Expected Graduation: May 2028  
+GPA: 4.0 / 4.0
+*Honors and Leadership*
+•⁠  ⁠4x Dean's List
+•⁠  ⁠$64,000 Chancellor's Merit Scholarship
+•⁠  ⁠Vice President, Theta Tau Professional Engineering Fraternity
+•⁠  ⁠Vice President of Software, AI Research Community
+---
+## Technical Skills
+<details open>
+<summary><strong>Languages</strong></summary>
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 </details>
-
----
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/abhinav-kommalapati">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:akommalapati@umass.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 📝 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-### 📚 Libraries & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="40" height="40"/>
-</p>
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
-</p>
-
-
----
-
-
-<details>
-  <summary><b>🚀 Fun Facts & Interests</b></summary>
-  
-  - 🎵 I love exploring new music genres and playing drums.
-  - 🌄 Hiking and nature photography keep me inspired.
-  - 🧩 Always up for a good logic puzzle or chess match.
-  - 🌐 Actively seeking opportunities to collaborate on open-source ML and data projects!
+<details open>
+<summary><strong>Frontend, Backend, and APIs</strong></summary>
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 </details>
-
----
-
-
-<details>
-  <summary><b>🔥 Currently Learning & Building</b></summary>
-  <br>
-  <ul>
-    <li>
-      🤖 Deep Learning with PyTorch <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="20"/>
-    </li>
-    <li>
-      🚀 Building an AI-powered web app (React + FastAPI)
-    </li>
-    <li>
-      📚 Reading: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
-    </li>
-    <li>
-      🏆 Practicing on Kaggle & LeetCode
-    </li>
-  </ul>
+<details open>
+<summary><strong>Cloud, Databases, and DevOps</strong></summary>
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-444444?style=flat-square)
 </details>
-
+<details open>
+<summary><strong>AI, Machine Learning, and LLM Tools</strong></summary>
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-6E40C9?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+</details>
+<details>
+<summary><strong>Testing and Development Tools</strong></summary>
+<br>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square)
+</details>
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="80"/>
-</p>
+## Experience
+<details open>
+<summary><strong>New Leader Manufacturing — Incoming Software Engineering Intern</strong></summary>
+<br>
+*May 2026 – August 2026*  
+Cedar Rapids, Iowa, USA
+•⁠  ⁠Selected to engineer Python-based Apex REST API integrations for automated lead scoring and follow-up workflows using GitHub Copilot and Claude Code while maintaining production-grade code quality across Agile sprints.
+•⁠  ⁠Planned to implement Lightning Web Components backed by Python microservices for an internal case management tool, using AI-assisted workflows through Cursor and Copilot to accelerate sprint delivery.
+•⁠  ⁠Planned to automate CRM data synchronization across enterprise accounts by building Python scripts interfacing with Salesforce Bulk and Streaming APIs, reducing manual processing overhead and improving real-time data reliability.
+</details>
+<details open>
+<summary><strong>DynaPrice — Software Engineering Co-op</strong></summary>
+<br>
+*October 2025 – April 2026*  
+New Jersey, USA
+•⁠  ⁠Integrated GitHub Copilot and Claude Code into the full development lifecycle, reviewing and correcting LLM-generated code daily to maintain production-grade quality and reduce feature development cycles by 40%.
+•⁠  ⁠Designed and deployed Java Spring Boot RESTful microservices on AWS Lambda for 3+ downstream platforms, implementing connection pooling and response caching to reduce API latency by 30% at peak load.
+•⁠  ⁠Built AWS CloudWatch dashboards with custom KPI alerting and optimized PostgreSQL queries using indexing, reducing MTTR by 45% and improving pricing data retrieval speed by 35%.
+•⁠  ⁠Architected normalized PostgreSQL schemas for pricing ingestion pipelines using complex SQL joins, window functions, and aggregations, supporting reliable data delivery across 10,000+ monthly transactions.
+•⁠  ⁠Partnered with product managers, data scientists, and QA engineers across Agile sprints, presenting architecture trade-offs to executive stakeholders and shipping pricing features on time every sprint.
+</details>
+<details open>
+<summary><strong>Vitamap Software Solutions — AI & Software Engineering Intern</strong></summary>
+<br>
+*June 2025 – August 2025*  
+Bangalore, India
+•⁠  ⁠Engineered Selenium WebDriver automation pipelines integrated into CI/CD, achieving a 100% test suite pass rate and reducing manual QA time by 75% across a cloud-hosted SaaS platform.
+•⁠  ⁠Built an OpenAI GPT-3 recommendation engine with fuzzy matching to auto-configure 1,000+ widgets, reducing resolution time by 60% and saving $10K+ annually in operational costs.
+•⁠  ⁠Designed and built React dashboard components with RESTful API integration, delivering a responsive SaaS UI adopted by 200+ daily active users and presented to 50+ engineering and business stakeholders.
+</details>
+<details open>
+<summary><strong>Incognito Blueprints — AI Research Intern</strong></summary>
+<br>
+*May 2024 – July 2024*  
+Advised by Professor Timothy Richards, UMass Amherst  
+New York, USA
+•⁠  ⁠Built a Python/SQL backend with geolocation and data capture capabilities, supporting a live research platform used by 300+ test users to study online student engagement patterns.
+•⁠  ⁠Engineered a Pandas/SciPy data pipeline to collect, clean, and statistically analyze survey and behavioral data from 150+ participants, identifying dropout risk signals used by the predictive model.
+•⁠  ⁠Fine-tuned a local Ollama LLM on student engagement data to power an adaptive AI tutor generating personalized study plans, quiz recommendations, and real-time feedback.
+•⁠  ⁠Helped achieve a 20%+ improvement in dropout prediction accuracy.
+•⁠  ⁠Co-authored a 13-page published research paper on predictive AI in education under Professor Timothy Richards.
+</details>
+---
+## Projects
+<details open>
+<summary><strong>AgentForce Clone — Autonomous AI Sales Assistant</strong></summary>
+<br>
+*Technologies:* Java, Spring Boot, LangChain, GPT-4, AWS Lambda, API Gateway, S3, ElastiCache, Docker, PostgreSQL, React, Claude Code, Cursor
+Built a multi-agent sales assistant capable of autonomous lead scoring, CRM lookup, email drafting, validation, and real-time frontend interaction.
+*Key Work*
+•⁠  ⁠Architected a multi-agent orchestration system in Java and Spring Boot using LangChain tool-calling and GPT-4 APIs across 500+ simulated sales interactions.
+•⁠  ⁠Deployed agent microservices on AWS Lambda with API Gateway auto-scaling, S3 log persistence, Redis/ElastiCache memory caching, and CloudWatch dashboards.
+•⁠  ⁠Implemented a multi-layer LLM validation pipeline enforcing strict JSON schemas, automated hallucination detection against CRM data, and few-shot prompt refinement.
+•⁠  ⁠Achieved 97%+ factual accuracy across agent benchmarks.
+•⁠  ⁠Developed a React frontend with real-time GPT-4 streaming.
+•⁠  ⁠Designed a normalized PostgreSQL schema supporting sub-50ms lookups across 100K+ records.
+•⁠  ⁠Dockerized the full stack for one-command cloud deployment.
+</details>
+<details open>
+<summary><strong>OrgBridge — Salesforce Multi-Org Data Sync Engine</strong></summary>
+<br>
+*Technologies:* Python, Spring Boot, Salesforce Bulk API 2.0, Change Data Capture, Streaming API, Platform Events, PostgreSQL, Redis, Docker, AWS Lambda, CloudWatch, React
+Built an event-driven Salesforce data synchronization engine for reliable cross-org replication, monitoring, retries, and operational visibility.
+*Key Work*
+•⁠  ⁠Architected an event-driven multi-org sync engine using Salesforce Change Data Capture and Streaming API.
+•⁠  ⁠Processed 50,000+ record change events daily with sub-5-second replication lag across orgs.
+•⁠  ⁠Built a Spring Boot job orchestrator using Salesforce Bulk API 2.0 for batched upserts.
+•⁠  ⁠Reduced API call volume by 80% compared with REST and supported 10,000+ records per batch without governor limit violations.
+•⁠  ⁠Implemented conflict resolution with timestamp-based last-write-wins logic.
+•⁠  ⁠Built a PostgreSQL dead-letter queue, achieving 99.97% sync reliability with automated retry and alerting through AWS CloudWatch.
+•⁠  ⁠Deployed the full stack on AWS Lambda with Redis-backed event buffering.
+•⁠  ⁠Created a React monitoring dashboard for sync lag, throughput, and error rates across 100K+ monthly transactions.
+</details>
+---
+## Certifications
+<details>
+<summary><strong>Software Engineering</strong></summary>
+<br>
+•⁠  ⁠Data Structures & Algorithms: Deep Dive Using Java — Udemy, 2025
+•⁠  ⁠Python Object-Oriented Programming — Udemy, 2025
+•⁠  ⁠Postman & API Testing — Udemy, 2025
+</details>
+<details>
+<summary><strong>Artificial Intelligence and Machine Learning</strong></summary>
+<br>
+•⁠  ⁠OpenAI GPT-3 for Developers — Infosys, 2025
+•⁠  ⁠Generative Models for Developers — Infosys, 2025
+•⁠  ⁠Principles of Generative AI — Infosys, 2025
+•⁠  ⁠Complete Machine Learning & Data Science with Python — Udemy, 2025
+•⁠  ⁠Deep Learning for Developers — Infosys, 2025
+</details>
+---
+## Current Technical Interests
+<table>
+<tr>
+<td width="33%">
+*Backend Systems*
+•⁠  ⁠API design
+•⁠  ⁠Microservices
+•⁠  ⁠PostgreSQL optimization
+•⁠  ⁠Distributed workflows
+•⁠  ⁠System reliability
+</td>
+<td width="33%">
+*AI Engineering*
+•⁠  ⁠LLM applications
+•⁠  ⁠Agentic orchestration
+•⁠  ⁠RAG pipelines
+•⁠  ⁠Prompt engineering
+•⁠  ⁠Validation and guardrails
+</td>
+<td width="33%">
+*Cloud and Product*
+•⁠  ⁠AWS Lambda
+•⁠  ⁠CloudWatch monitoring
+•⁠  ⁠Dockerized deployments
+•⁠  ⁠Full-stack dashboards
+•⁠  ⁠Production automation
+</td>
+</tr>
+</table>
+---
+## GitHub Activity
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</div>
+---
+## Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" alt="Contribution graph" />
+</div>
+---
+## Selected Metrics
+<table>
+<tr>
+<td align="center"><strong>40%</strong><br>Feature cycle reduction</td>
+<td align="center"><strong>45%</strong><br>MTTR reduction</td>
+<td align="center"><strong>75%</strong><br>Manual QA time reduction</td>
+<td align="center"><strong>97%+</strong><br>Agent factual accuracy</td>
+</tr>
+<tr>
+<td align="center"><strong>100K+</strong><br>Records handled</td>
+<td align="center"><strong>50K+</strong><br>Daily sync events</td>
+<td align="center"><strong>10K+</strong><br>Monthly transactions</td>
+<td align="center"><strong>300+</strong><br>Research platform users</td>
+</tr>
+</table>
+---
+## Contact
+I am open to software engineering internships, AI engineering opportunities, research collaborations, and technical projects involving backend systems, cloud infrastructure, and applied AI.
+<div align="center">
+<a href="mailto:akommalapati@umass.edu">
+  <img src="https://img.shields.io/badge/Email-akommalapati%40umass.edu-B23121?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+</div>
