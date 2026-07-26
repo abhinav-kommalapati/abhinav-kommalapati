@@ -66,22 +66,173 @@
 </details>
 ---
  
-## 🚀 Flagship Projects
+## 🚀 Systems I've Architected
  
-<table>
+<div align="center">
+*Each project below is treated as a real production system — not a toy script.*
+ 
+</div>
+<br>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-**🤖 AgentForce Clone** — *Autonomous AI Sales Assistant*
-Multi-agent orchestration system in Java/Spring Boot using LangChain tool-calling and GPT-4, enabling autonomous lead scoring, CRM lookup, and email drafting across 500+ simulated interactions. Deployed on AWS Lambda with Redis caching; 97%+ factual accuracy via a multi-layer LLM validation pipeline.
+<td width="100%">
+### 🤖 AgentForce Clone
+**Autonomous multi-agent sales orchestration platform**
  
-`Java` `Spring Boot` `LangChain` `GPT-4` `AWS` `Docker` `PostgreSQL` `React`
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4-412991?logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+ 
+```
+┌─────────────┐    tool-calling     ┌──────────────────┐
+│  LangChain  │ ──────────────────▶ │  CRM Lookup Agent │
+│ Orchestrator│                     └──────────────────┘
+│  (GPT-4)    │ ──────────────────▶ ┌──────────────────┐
+└─────────────┘                     │ Lead-Scoring Agent│
+      │                             └──────────────────┘
+      ▼                             ┌──────────────────┐
+┌─────────────┐ ──────────────────▶ │ Email-Draft Agent │
+│  Validation │                     └──────────────────┘
+│  Pipeline   │
+└─────────────┘
+```
+ 
+| What it does | How |
+|---|---|
+| Autonomous lead scoring, CRM lookup & email drafting | Multi-agent orchestration in Java/Spring Boot via LangChain tool-calling |
+| Auto-scaling agent execution | Deployed on AWS Lambda + API Gateway, S3 log persistence |
+| Sub-10ms shared memory | Redis (ElastiCache) caching layer |
+| 97%+ factual accuracy | Multi-layer LLM validation: strict JSON schemas + hallucination detection + few-shot refinement |
+| Real-time UI | React frontend streaming GPT-4 responses live, sub-50ms PostgreSQL lookups across 100K+ records |
+ 
+**Scale tested:** 500+ simulated sales interactions · fully Dockerized, one-command deploy
  
 </td>
-<td width="50%" valign="top">
-**🔄 OrgBridge** — *Salesforce Multi-Org Data Sync Engine*
-Event-driven sync engine using Salesforce Change Data Capture and Streaming API, processing 50,000+ record events daily with sub-5-second replication lag. 99.97% sync reliability with automated retry and alerting.
+</tr>
+<tr>
+<td width="100%">
+### 🔄 OrgBridge
+**Event-driven Salesforce multi-org data sync engine**
  
-`Python` `Spring Boot` `Salesforce API` `PostgreSQL` `Redis` `AWS Lambda` `React`
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+ 
+```
+ Org A ──┐
+         │  Change Data Capture / Streaming API
+ Org B ──┼──────────────▶ Spring Boot Job Orchestrator
+         │                (Bulk API 2.0 batched upserts)
+ Org C ──┘                        │
+                                   ▼
+                    Conflict Resolution Layer
+              (timestamp last-write-wins + dead-letter queue)
+                                   │
+                                   ▼
+                     PostgreSQL  +  React live dashboard
+```
+ 
+| What it does | How |
+|---|---|
+| Cross-org record sync at scale | Salesforce Change Data Capture + Streaming API, 50,000+ events/day, <5s replication lag |
+| 80% fewer API calls than REST | Bulk API 2.0 batched upserts, 10,000+ records/batch, zero governor-limit violations |
+| 99.97% sync reliability | Timestamp-based conflict resolution + PostgreSQL dead-letter queue + automated retry |
+| Live observability | React dashboard surfacing sync lag, throughput, and error rate in real time |
+ 
+**Scale tested:** 100K+ monthly transactions monitored via AWS CloudWatch
+ 
+</td>
+</tr>
+<tr>
+<td width="100%">
+### 🌳 Agent Version Control
+**"Git for AI agents" — versioning system for agent definitions**
+ 
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Flow-FF0072?logo=react&logoColor=white"/>
+ 
+A concept system to snapshot, diff, rollback, and branch entire agent definitions — system prompt, model, tools, memory, retrieval config — as versioned artifacts, with React Flow rendering the agent's full lineage graph like a commit tree.
+ 
+</td>
+</tr>
+<tr>
+<td width="100%">
+### 🧠 ML Mini Projects Collection
+**Curated end-to-end machine learning problem set — classification, regression & clustering**
+ 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white"/>
+ 
+Every project follows the same pipeline discipline — raw data → preprocessing → model training → evaluation — applied across three ML problem families:
+ 
+```
+             ┌────────────────────┐
+  Clustering │ Customer Segmentation (K-Means)
+             └────────────────────┘
+             ┌────────────────────┐
+             │ Diabetes Prediction
+Classifi-    │ Heart Disease Prediction
+cation       │ Rock vs Mine (sonar signals)
+             │ Spam Mail Detection (NLP)
+             │ Loan Approval Prediction
+             └────────────────────┘
+             ┌────────────────────┐
+  Regression │ Sales Forecasting
+             └────────────────────┘
+```
+ 
+| Project | Problem | ML Type |
+|---|---|---|
+| 💳 Customer Segmentation | Group customers by purchasing behavior | Clustering (K-Means) |
+| 🩺 Diabetes Prediction | Predict diabetes from health metrics | Classification |
+| ❤️ Heart Disease Prediction | Predict presence of heart disease from patient data | Classification |
+| 🎧 Rock vs Mine Prediction | Classify sonar signals as rock or mine | Classification |
+| 📈 Sales Prediction | Forecast future sales from historical data | Regression |
+| ✉️ Spam Mail Prediction | Detect spam emails using NLP | Classification |
+| 🏦 Loan Prediction | Predict loan approval from applicant info | Classification |
+ 
+</td>
+</tr>
+<tr>
+<td width="100%">
+### ✅ Data Validation Web Application
+**Glass-morphism validation engine with real-time feedback**
+ 
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Animate.css-FF6B6B?logo=css3&logoColor=white"/>
+ 
+A Flask backend paired with a Tailwind + glass-morphism frontend that validates six data types in real time — no page reloads, no waiting for a submit button.
+ 
+```
+  Input ──▶ Flask Validation Engine ──▶ Live UI Feedback
+              │
+              ├─ Name / Email / Mobile
+              ├─ Password  ──▶ strength meter
+              ├─ IP Address / Date
+              └─ File Upload (.xlsx .csv .txt .log)
+```
+ 
+| Feature | Detail |
+|---|---|
+| Real-time validation | Instant feedback per field as the user types, no full-page submit cycle |
+| Password strength meter | Live-updating strength indicator with visual progress bar |
+| File upload validation | Accepts and validates `.xlsx`, `.csv`, `.txt`, `.log` |
+| UI polish | Glass-morphism cards, gradient effects, animated transitions, interactive tooltips |
+ 
+</td>
+</tr>
+<tr>
+<td width="100%">
+### 📲 Automated SMS Notification System
+**Twilio-powered bulk messaging service**
+ 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white"/>
+ 
+A Python service that sends templated SMS notifications to multiple recipients through Twilio's API, with credentials kept entirely out of source control via environment-based configuration.
+ 
+```
+.env (Twilio SID / Auth Token) ──▶ Twilio Client ──▶ Recipient List
+                                                        (fan-out send)
+```
+ 
+| Feature | Detail |
+|---|---|
+| Multi-recipient send | One call, multiple phone numbers, customizable message templates |
+| Secure config | Credentials and phone numbers loaded from `.env`, never hardcoded |
+| Simple entry points | `sendSms.py` for one-off sends, `useTwilio.py` for reusable Twilio functions |
  
 </td>
 </tr>
@@ -140,20 +291,6 @@ Event-driven sync engine using Salesforce Change Data Capture and Streaming API,
 </p>
 ---
  
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinav-kommalapati&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-kommalapati&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-kommalapati&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-kommalapati&theme=tokyo-night&hide_border=true" />
-</p>
----
- 
 <details>
 <summary><b>🔥 Currently Learning & Building</b></summary>
 <br>
@@ -189,4 +326,3 @@ Event-driven sync engine using Salesforce Change Data Capture and Streaming API,
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="80"/>
 </p>
-<!--
